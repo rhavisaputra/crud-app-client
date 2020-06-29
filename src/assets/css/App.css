@@ -1,0 +1,10 @@
+.header {
+	height: 56px;
+}
+.nav-link {
+	outline: none;
+	user-select: none;
+}
+.table {
+	text-align: center;
+}
